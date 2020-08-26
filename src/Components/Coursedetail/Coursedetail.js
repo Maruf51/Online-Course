@@ -9,7 +9,6 @@ const Coursedetail = () => {
 
     const [price, setPrice] = useState([]);
     const btnClick = (Price) => {const newPrice = [...price, Price]; setPrice(newPrice)}
-    console.log(price)
 
     return (
         <div className="courseDetailArea">
