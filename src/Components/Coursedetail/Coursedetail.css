@@ -1,0 +1,15 @@
+.courseDetailArea {
+    border-top: 1px solid gray;
+}
+
+.courseSection {
+    width: 80%;
+    float: left;
+    border-right: 1px solid lightgray;
+}
+  
+.cartSection {
+    width: 20%;
+    float: left;
+    padding: 25px 10px;
+}
