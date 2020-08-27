@@ -15,6 +15,9 @@ const Cart = (props) => {
             <h4 className="text-center total-order">Total Order</h4>
             <h4 className="ordered-course">Ordered Course: {price.length}</h4>
             <h4 className="total-price">Total Price: ${(total).toFixed(2)}</h4>
+            <div className="text-center">
+                <button className="btn btn-success purchase-btn">Purchase</button>
+            </div>
         </div>
     );
 };
