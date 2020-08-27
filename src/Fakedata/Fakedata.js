@@ -12,7 +12,7 @@ var courses = [
     { name: 'PHP', price: '21.99', img: 'https://www.technotification.com/wp-content/uploads/2018/12/PHP-Programming-Language.jpg', owner: 'Programming Hero Team', key: '11'},
     { name: 'Ruby', price: '10.99', img: 'https://th.bing.com/th/id/OIP.AP927ypNXkn0YE0sZztmGQHaEK?pid=Api&rs=1', owner: 'Programming Hero Team', key: '12'},
     { name: 'Swift', price: '9.99', img: 'http://www.iclarified.com/images/news/52807/250733/250733.jpg', owner: 'Programming Hero Team', key: '13'},
-    { name: 'PL/SQL', price: '13.99', img: 'https://cdn.eduonix.com/assets/images/header_img/20171102170818.jpg', owner: 'Programming Hero Team', key: '14'},
+    { name: 'PL/SQL', price: '13.99', img: 'https://th.bing.com/th/id/OIP.etcRFhhcgHHvGPqDa1WHgQFNC7?pid=Api&rs=1', owner: 'Programming Hero Team', key: '14'},
     { name: 'Scratch', price: '9.99', img: 'https://www.educba.com/academy/wp-content/uploads/2015/12/scratch-programming-examples.jpg', owner: 'Programming Hero Team', key: '15'}
 ];
 

@@ -3,7 +3,6 @@ import './Courses.css';
 
 const Courses = (props) => {
     const data = props.courseObject;
-    // console.log(data)
 
     return (
         <div className="single-course">
